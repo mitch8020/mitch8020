@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JP</h1>
+<h1 align="center">Hi 👋, I'm JP!</h1>
 <h3 align="center">I'm a software engineer with a background in construction based in Nashville, TN!</h3>
 
 <p align="left"> <a href="https://twitter.com/realjpmitra" target="blank"><img src="https://img.shields.io/twitter/follow/realjpmitra?logo=twitter&style=for-the-badge" alt="realjpmitra" /></a> </p>

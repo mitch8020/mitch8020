@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm JP</h1>
 <h3 align="center">I'm a software engineer with a background in construction based in Nashville, TN!</h3>
 
-<p align="center"> <a href="https://twitter.com/realjpmitra" target="blank"><img src="https://img.shields.io/twitter/follow/realjpmitra?logo=twitter&style=for-the-badge" alt="realjpmitra" /></a> <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fmitch8020%2Fbadges%2Flarge%3Ftheme%3Dlight"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=for-the-badge"></a></p>
+<p align="center"> 
+    <a href="https://jpmitra.netlify.app/"><img alt="portfolio" src="https://img.shields.io/twitter/url?color=bright%20green&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fjpmitra.netlify.app%2F"></a>
+    <a href="https://twitter.com/realjpmitra" target="blank"><img alt="twitter" src="https://img.shields.io/twitter/url?color=9CF&label=TWITTER&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Frealjpmitra" /></a> 
+    <a href="https://www.linkedin.com/in/jpmitra/"><img alt="linked in" src="https://img.shields.io/twitter/url?color=blue&label=LINKEDIN&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjpmitra%2F"></a>
+    <a href="https://www.codewars.com/users/mitch8020"><img alt="codewars" src="https://img.shields.io/twitter/url?color=red&label=CODEWARS&style=for-the-badge&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fmitch8020"></a>
+</p>
 
 Transitioning through multiple roles from estimator to project administrator to recruiter to project manager, I've always been an advocate for automated systems and efficient work flows to help the people I work with complete their tasks as smoothly as possible. Knowing the key stressors among the different departments that I've worked with, I took it upon myself to design and create enterprise software that will cater to the specific needs of the company.
 
@@ -13,15 +18,11 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 
 - 📫 You can reach me at **johnpaulmitra@yahoo.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/realjpmitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realjpmitra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jpmitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpmitra" height="30" width="40" /></a>
-</p>
+- <img alt="codewars logo" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="25px"> Follow me at Codewars! <a href="https://www.codewars.com/users/mitch8020"><img alt="portfolio" src="https://www.codewars.com/users/mitch8020/badges/small?theme=light"></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -30,8 +31,12 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitch8020&show_icons=true&locale=en&layout=compact" alt="mitch8020" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitch8020&show_icons=true&locale=en" alt="mitch8020" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitch8020&show_icons=true&locale=en" alt="mitch8020" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitch8020&" alt="mitch8020" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitch8020&" alt="mitch8020" /></p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/realjpmitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realjpmitra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jpmitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpmitra" height="30" width="40" /></a>
+</p>

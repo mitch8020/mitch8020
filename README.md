@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JP</h1>
 <h3 align="center">I'm a software engineer with a background in construction based in Nashville, TN!</h3>
 
-<p align="center"> <a href="https://twitter.com/realjpmitra" target="blank"><img src="https://img.shields.io/twitter/follow/realjpmitra?logo=twitter&style=for-the-badge" alt="realjpmitra" /></a> <a href="https://www.codewars.com/users/mitch8020" target="blank"><img src="https://www.codewars.com/users/mitch8020/badges/large?theme=light" /></a></p>
+<p align="center"> <a href="https://twitter.com/realjpmitra" target="blank"><img src="https://img.shields.io/twitter/follow/realjpmitra?logo=twitter&style=for-the-badge" alt="realjpmitra" /></a> <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fmitch8020%2Fbadges%2Flarge%3Ftheme%3Dlight"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=for-the-badge"></a></p>
 
 Transitioning through multiple roles from estimator to project administrator to recruiter to project manager, I've always been an advocate for automated systems and efficient work flows to help the people I work with complete their tasks as smoothly as possible. Knowing the key stressors among the different departments that I've worked with, I took it upon myself to design and create enterprise software that will cater to the specific needs of the company.
 

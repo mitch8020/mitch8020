@@ -21,7 +21,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 - 👨‍💻 Follow me at Codewars! <a href="https://www.codewars.com/users/mitch8020"><img alt="portfolio" src="https://www.codewars.com/users/mitch8020/badges/micro?theme=light" height="20px"></a>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<p color="white" align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -45,7 +45,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 				<h3 align="center" color="white">W&A Estimating Calculator</h2>
 				<div align="center"> 
 					<a target="_blank" href="https://wa-calculator.netlify.app/">
-						<img src="https://jpmitra.netlify.app/images/wa-calculator-updated-7-5-ratio.jpg" alt="wa calculator" height="200px">
+						<img src="https://jpmitra.netlify.app/images/wa-calculator-updated-7-5-ratio.jpg" alt="wa calculator" width="300px">
 					</a>
 					<br>
 					<br>
@@ -67,7 +67,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 				<h3 align="center" color="white">Cuisine Restaurant Website</h2>
 				<div align="center" > 
 					<a target="_blank" href="https://jp-cuisine-restaurant.netlify.app/">
-						<img src="https://jpmitra.netlify.app/images/cuisine-restaurant-snip-7-5-ratio.jpg" alt="cuisine restaurant website" height="200px">
+						<img src="https://jpmitra.netlify.app/images/cuisine-restaurant-snip-7-5-ratio.jpg" alt="cuisine restaurant website" width="300px">
 					</a>
 					<br>
 					<br>
@@ -90,7 +90,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 				<h3 align="center" color="white">Level Ground Website</h2>
 				<div align="center" > 
 					<a target="_blank" href="https://jp-level-ground.netlify.app/">
-						<img src="https://jpmitra.netlify.app/images/level-ground-snip-7-5-ratio.jpg" alt="level ground website" height="200px" >
+						<img src="https://jpmitra.netlify.app/images/level-ground-snip-7-5-ratio.jpg" alt="level ground website" width="300px">
 					</a>
 					<br>
 					<br>
@@ -112,7 +112,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 				<h3 align="center" color="white">Future Work</h2>
 				<div align="center" > 
 					<a target="_blank" href="#">
-						<img src="https://jpmitra.netlify.app/images/pic01-7-5-ratio.jpg" alt="PLACEHOLDER" height="200px">
+						<img src="https://jpmitra.netlify.app/images/pic01-7-5-ratio.jpg" alt="PLACEHOLDER" width="300px">
 					</a>
 					<br>
 					<br>

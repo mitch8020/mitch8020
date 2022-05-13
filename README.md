@@ -43,20 +43,20 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 			<!--project 1 -->
 			<td width="50%">
 				<h3 align="center" color="white">W&A Estimating Calculator</h2>
-				<div align="center" > 
-					<a href="https://wa-calculator.netlify.app/">
-						<img src="https://jpmitra.netlify.app/images/wa-calculator-updated-7-5-ratio.jpg" alt="wa calculator" height="200px" />
+				<div align="center"> 
+					<a target="_blank" href="https://wa-calculator.netlify.app/">
+						<img src="https://jpmitra.netlify.app/images/wa-calculator-updated-7-5-ratio.jpg" alt="wa calculator" height="200px">
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
 						<a href='https://github.com/mitch8020/WA-Calculator'>
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							<img src="https://img.shields.io/github/repo-size/mitch8020/WA-Calculator?color=lightgray&label=REPO&style=for-the-badge">
 						</a>  
                         <!--live site --> 
-						<a href="https://wa-calculator.netlify.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						<a target="_blank" href="https://wa-calculator.netlify.app/">
+							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fwa-calculator.netlify.app%2F">
 						</a>	
 					</p>
 					<p><strong>JavaScript, HTML, CSS</strong></p>
@@ -66,19 +66,19 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 			<td width="50%">
 				<h3 align="center" color="white">Cuisine Restaurant Website</h2>
 				<div align="center" > 
-					<a href="https://jp-cuisine-restaurant.netlify.app/">
-						<img src="https://jpmitra.netlify.app/images/cuisine-restaurant-snip-7-5-ratio.jpg" alt="cuisine restaurant website" height="200px" />
+					<a target="_blank" href="https://jp-cuisine-restaurant.netlify.app/">
+						<img src="https://jpmitra.netlify.app/images/cuisine-restaurant-snip-7-5-ratio.jpg" alt="cuisine restaurant website" height="200px">
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
 						<a href='https://github.com/mitch8020'>
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							<img src="https://img.shields.io/github/repo-size/mitch8020/mitch8020?color=lightgray&label=REPO&style=for-the-badge">
 						</a>  
                         <!--live site --> 
-						<a href="https://jp-cuisine-restaurant.netlify.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						<a target="_blank" href="https://jp-cuisine-restaurant.netlify.app/">
+							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fjp-cuisine-restaurant.netlify.app%2F">
 						</a>	
 					</p>
 					<p><strong>HTML, CSS</strong></p>
@@ -89,19 +89,19 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 			<td width="50%">
 				<h3 align="center" color="white">Level Ground Website</h2>
 				<div align="center" > 
-					<a href="https://jp-level-ground.netlify.app/">
-						<img src="https://jpmitra.netlify.app/images/level-ground-snip-7-5-ratio.jpg" alt="level ground website" height="200px" />
+					<a target="_blank" href="https://jp-level-ground.netlify.app/">
+						<img src="https://jpmitra.netlify.app/images/level-ground-snip-7-5-ratio.jpg" alt="level ground website" height="200px" >
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
 						<a href='https://github.com/mitch8020'>
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							<img src="https://img.shields.io/github/repo-size/mitch8020/mitch8020?color=lightgray&label=REPO&style=for-the-badge">
 						</a>  
                         <!--live site --> 
-						<a href="https://jp-level-ground.netlify.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						<a target="_blank" href="https://jp-level-ground.netlify.app/">
+							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fjp-level-ground.netlify.app%2F">
 						</a>	
 					</p>
 					<p><strong>HTML, CSS</strong></p>
@@ -111,19 +111,19 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 			<td width="50%">
 				<h3 align="center" color="white">Future Work</h2>
 				<div align="center" > 
-					<a href="#">
-						<img src="https://jpmitra.netlify.app/images/pic01-7-5-ratio.jpg" alt="PLACEHOLDER" height="200px" />
+					<a target="_blank" href="#">
+						<img src="https://jpmitra.netlify.app/images/pic01-7-5-ratio.jpg" alt="PLACEHOLDER" height="200px">
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
 						<a href='https://github.com/mitch8020'>
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							<img src="https://img.shields.io/github/repo-size/mitch8020/JP-Portfolio?color=lightgray&label=REPO&style=for-the-badge">
 						</a>  
                         <!--live site --> 
-						<a href="#">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						<a target="_blank" href="#">
+							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fw">
 						</a>	
 					</p>
 					<p><strong>React.js, Node.js, MongoDB</strong></p>

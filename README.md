@@ -2,19 +2,19 @@
 <h3 align="center">I'm a software engineer with a background in construction based in Nashville, TN!</h3>
 
 <p align="center"> 
-    <a href="https://jpmitra.netlify.app/"><img alt="portfolio" src="https://img.shields.io/twitter/url?color=bright%20green&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fjpmitra.netlify.app%2F"></a>
-    <a href="https://twitter.com/realjpmitra" target="blank"><img alt="twitter" src="https://img.shields.io/twitter/url?color=9CF&label=TWITTER&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Frealjpmitra" /></a> 
-    <a href="https://www.linkedin.com/in/jpmitra/"><img alt="linked in" src="https://img.shields.io/twitter/url?color=blue&label=LINKEDIN&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjpmitra%2F"></a>
-    <a href="https://www.codewars.com/users/mitch8020"><img alt="codewars" src="https://img.shields.io/twitter/url?color=red&label=CODEWARS&style=for-the-badge&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fmitch8020"></a>
+    <a target="_blank" href="https://jpmitra.netlify.app/"><img alt="portfolio" src="https://img.shields.io/twitter/url?color=bright%20green&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fjpmitra.netlify.app%2F"></a>
+    <a target="_blank" href="https://twitter.com/realjpmitra" target="blank"><img alt="twitter" src="https://img.shields.io/twitter/url?color=9CF&label=TWITTER&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Frealjpmitra" /></a> 
+    <a target="_blank" href="https://www.linkedin.com/in/jpmitra/"><img alt="linked in" src="https://img.shields.io/twitter/url?color=blue&label=LINKEDIN&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjpmitra%2F"></a>
+    <a target="_blank" href="https://www.codewars.com/users/mitch8020"><img alt="codewars" src="https://img.shields.io/twitter/url?color=red&label=CODEWARS&style=for-the-badge&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fmitch8020"></a>
 </p>
 
 Transitioning through multiple roles from <strong>estimator</strong> to <strong>project administrator</strong> to <strong>recruiter</strong> to <strong>project manager</strong>, I've always been an advocate for automated systems and efficient work flows to help the people I work with complete their tasks as smoothly as possible. Knowing the key stressors among the different departments that I've worked with, <strong>I took it upon myself to design and create enterprise software that will cater to the specific needs of the company</strong>.
 
-Currently, <strong>I'm working on an [estimating app](https://wa-calculator.netlify.app/) that will automate the process of calculating prices and reduce time in formatting each quote</strong>. My goals are to extend this application to further automate administrative processes within our Sales and Production Departments by creating a system to intake new projects and streamline the communications between these multiple departments.
+Currently, <strong>I'm working on an <a target="_blank" href="https://wa-calculator.netlify.app/">estimating app</a> that will automate the process of calculating prices and reduce time in formatting each quote</strong>. My goals are to extend this application to further automate administrative processes within our Sales and Production Departments by creating a system to intake new projects and streamline the communications between these multiple departments.
 
-Outside of coding, I love playing disc golf, trying new foods, going to concerts, and taking [Bucky](https://jpmitra.netlify.app/bucket.html) out on walks around my apartment complex.
+Outside of coding, I love playing disc golf, trying new foods, going to concerts, and taking <a target="_blank" href="https://jpmitra.netlify.app/bucket.html">Bucky</a> out on walks around my apartment complex.
 <br>
-- 📂 All of my projects are available at [https://jpmitra.netlify.app/](https://jpmitra.netlify.app/)
+- 📂 All of my projects are available at <a target="_blank" href="https://jpmitra.netlify.app/">https://jpmitra.netlify.app/</a>
 
 - 📫 You can reach me at **johnpaulmitra@yahoo.com**
 

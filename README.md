@@ -8,17 +8,17 @@
     <a href="https://www.codewars.com/users/mitch8020"><img alt="codewars" src="https://img.shields.io/twitter/url?color=red&label=CODEWARS&style=for-the-badge&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fmitch8020"></a>
 </p>
 
-Transitioning through multiple roles from estimator to project administrator to recruiter to project manager, I've always been an advocate for automated systems and efficient work flows to help the people I work with complete their tasks as smoothly as possible. Knowing the key stressors among the different departments that I've worked with, I took it upon myself to design and create enterprise software that will cater to the specific needs of the company.
+Transitioning through multiple roles from <strong>estimator</strong> to <strong>project administrator</strong> to <strong>recruiter</strong> to <strong>project manager</strong>, I've always been an advocate for automated systems and efficient work flows to help the people I work with complete their tasks as smoothly as possible. Knowing the key stressors among the different departments that I've worked with, <strong>I took it upon myself to design and create enterprise software that will cater to the specific needs of the company</strong>.
 
-Currently, I'm working on an estimating app that will automate the process of calculating prices and reduce time in formatting each quote. My goals are to extend this application to further automate administrative processes within our Sales and Production Departments by creating a system to intake new projects and streamline the communications between these multiple departments.
+Currently, <strong>I'm working on an [estimating app](https://wa-calculator.netlify.app/) that will automate the process of calculating prices and reduce time in formatting each quote</strong>. My goals are to extend this application to further automate administrative processes within our Sales and Production Departments by creating a system to intake new projects and streamline the communications between these multiple departments.
 
 Outside of coding, I love playing disc golf, trying new foods, going to concerts, and taking [Bucky](https://jpmitra.netlify.app/bucket.html) out on walks around my apartment complex.
-
-- 👨‍💻 All of my projects are available at [https://jpmitra.netlify.app/](https://jpmitra.netlify.app/)
+<br>
+- 📂 All of my projects are available at [https://jpmitra.netlify.app/](https://jpmitra.netlify.app/)
 
 - 📫 You can reach me at **johnpaulmitra@yahoo.com**
 
-- <img alt="codewars logo" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="25px"> Follow me at Codewars! <a href="https://www.codewars.com/users/mitch8020"><img alt="portfolio" src="https://www.codewars.com/users/mitch8020/badges/small?theme=light"></a>
+- 👨‍💻 Follow me at Codewars! <a href="https://www.codewars.com/users/mitch8020"><img alt="portfolio" src="https://www.codewars.com/users/mitch8020/badges/micro?theme=light" height="20px"></a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -32,11 +32,109 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitch8020&show_icons=true&locale=en" alt="mitch8020" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitch8020&" alt="mitch8020" /></p>
+
+<!-- PROJECTS -->
+
+<h3 align="center">Projects:</h3>
+<div align="center">
+	<table>
+		<tr>
+			<!--project 1 -->
+			<td width="50%">
+				<h3 align="center" color="white">W&A Estimating Calculator</h2>
+				<div align="center" > 
+					<a href="https://wa-calculator.netlify.app/">
+						<img src="https://jpmitra.netlify.app/images/wa-calculator-updated-7-5-ratio.jpg" alt="wa calculator" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/mitch8020/WA-Calculator'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://wa-calculator.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, HTML, CSS</strong></p>
+				</div>
+			</td>
+			<!--project 2 -->
+			<td width="50%">
+				<h3 align="center" color="white">Cuisine Restaurant Website</h2>
+				<div align="center" > 
+					<a href="https://jp-cuisine-restaurant.netlify.app/">
+						<img src="https://jpmitra.netlify.app/images/cuisine-restaurant-snip-7-5-ratio.jpg" alt="cuisine restaurant website" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/mitch8020'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://jp-cuisine-restaurant.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>HTML, CSS</strong></p>
+				</div>
+			</td>
+		<tr>
+			<!--project 3 -->
+			<td width="50%">
+				<h3 align="center" color="white">Level Ground Website</h2>
+				<div align="center" > 
+					<a href="https://jp-level-ground.netlify.app/">
+						<img src="https://jpmitra.netlify.app/images/level-ground-snip-7-5-ratio.jpg" alt="level ground website" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/mitch8020'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://jp-level-ground.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>HTML, CSS</strong></p>
+				</div>
+			</td>
+			<!--project 4 -->
+			<td width="50%">
+				<h3 align="center" color="white">Future Work</h2>
+				<div align="center" > 
+					<a href="#">
+						<img src="https://jpmitra.netlify.app/images/pic01-7-5-ratio.jpg" alt="PLACEHOLDER" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/mitch8020'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="#">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>React.js, Node.js, MongoDB</strong></p>
+				</div>
+			</td>
+	</table>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/realjpmitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realjpmitra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jpmitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpmitra" height="30" width="40" /></a>
+<a href="mailto:johnpaulmitra@yahoo.com"><img align="center" src="https://img.icons8.com/color/344/apple-mail.png" alt="jp mitra" height="40" width="40" /></a>
 </p>

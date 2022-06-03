@@ -109,24 +109,24 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 			</td>
 			<!--project 4 -->
 			<td width="50%">
-				<h3 align="center" color="white">Future Work</h2>
+				<h3 align="center" color="white">First Full-Stack App</h2>
 				<div align="center" > 
-					<a target="_blank" href="#">
+					<a target="_blank" href="https://magic-eight-ball-100devs.herokuapp.com/">
 						<img src="https://jpmitra.netlify.app/images/pic01-7-5-ratio.jpg" alt="PLACEHOLDER" width="300px">
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/mitch8020'>
-							<img src="https://img.shields.io/github/repo-size/mitch8020/JP-Portfolio?color=lightgray&label=REPO&style=for-the-badge">
+						<a href='https://github.com/mitch8020/magic-eight-ball'>
+							<img src="https://img.shields.io/github/repo-size/mitch8020/magic-eight-ball?color=lightgray&label=REPO&style=for-the-badge">
 						</a>  
                         <!--live site --> 
-						<a target="_blank" href="#">
-							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fw">
+						<a target="_blank" href="https://magic-eight-ball-100devs.herokuapp.com/">
+							<img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fmagic-eight-ball-100devs.herokuapp.com%2F">
 						</a>	
 					</p>
-					<p><strong>React.js, Node.js, MongoDB</strong></p>
+					<p><strong>Javascript, Node.js, Express.js</strong></p>
 				</div>
 			</td>
 	</table>

@@ -123,7 +123,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 						</a>  
                         <!--live site --> 
 						<a target="_blank" href="https://magic-eight-ball-100devs.herokuapp.com/">
-							<img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fmagic-eight-ball-100devs.herokuapp.com%2F">
+							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fmagic-eight-ball-100devs.herokuapp.com%2F">
 						</a>	
 					</p>
 					<p><strong>Javascript, Node.js, Express.js</strong></p>

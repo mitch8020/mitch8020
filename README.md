@@ -64,24 +64,24 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 			</td>
 			<!--project 2 -->
 			<td width="50%">
-				<h3 align="center" color="white">Cuisine Restaurant Website</h2>
+				<h3 align="center" color="white">Marvel Villains API</h2>
 				<div align="center" > 
-					<a target="_blank" href="https://jp-cuisine-restaurant.netlify.app/">
-						<img src="https://jpmitra.netlify.app/images/cuisine-restaurant-snip-7-5-ratio.jpg" alt="cuisine restaurant website" width="300px">
+					<a target="_blank" href="https://marvel-villains.herokuapp.com/">
+						<img src="https://user-images.githubusercontent.com/100659138/172031382-991e8a09-3fcf-465b-835c-93982f30bf8f.gif" alt="marvel villains api" width="300px" height="215px">
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/mitch8020'>
-							<img src="https://img.shields.io/github/repo-size/mitch8020/mitch8020?color=lightgray&label=REPO&style=for-the-badge">
+						<a href='https://github.com/mitch8020/marvel-villains'>
+							<img src="https://img.shields.io/github/repo-size/mitch8020/marvel-villains?color=lightgray&label=REPO&style=for-the-badge">
 						</a>  
                         <!--live site --> 
-						<a target="_blank" href="https://jp-cuisine-restaurant.netlify.app/">
-							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fjp-cuisine-restaurant.netlify.app%2F">
+						<a target="_blank" href="https://marvel-villains.herokuapp.com/">
+							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fmarvel-villains.herokuapp.com%2F">
 						</a>	
 					</p>
-					<p><strong>HTML, CSS</strong></p>
+					<p><strong>Javascript, Node.js, Express.js</strong></p>
 				</div>
 			</td>
 		<tr>
@@ -97,7 +97,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 					<p>
                         <!--repo --> 
 						<a href='https://github.com/mitch8020'>
-							<img src="https://img.shields.io/github/repo-size/mitch8020/mitch8020?color=lightgray&label=REPO&style=for-the-badge">
+							<img src="https://img.shields.io/github/repo-size/mitch8020/level-ground-website?color=lightgray&label=REPO&style=for-the-badge">
 						</a>  
                         <!--live site --> 
 						<a target="_blank" href="https://jp-level-ground.netlify.app/">

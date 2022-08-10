@@ -25,10 +25,10 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 	<!-- HTML --> <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" width="70" height="70" style="max-width: 100%;"> 
 	<!-- CSS --> <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="70" height="70" style="max-width: 100%;"> 
 	<!-- JavaScript --> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="70" height="70" style="max-width: 100%;"> 
-	<!-- React --> <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="70" height="70" style="max-width: 100%;"> 
-	<!-- MongoDB --> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> 
 	<!--- Node.js --> <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> 
 	<!-- Express.js --> <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> 
+	<!-- MongoDB --> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> 
+	<!-- React --> <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="70" height="70" style="max-width: 100%;">
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitch8020&show_icons=true&locale=en" alt="mitch8020" /></p>
@@ -42,24 +42,24 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 		<tr>
 			<!--project 1 -->
 			<td width="50%">
-				<h3 align="center" color="white">W&A Estimating Calculator</h2>
-				<div align="center"> 
-					<a target="_blank" href="https://wa-calculator.netlify.app/">
-						<img src="https://jpmitra.netlify.app/images/wa-calculator-updated-7-5-ratio.jpg" alt="wa calculator" width="300px">
+				<h3 align="center" color="white">Mood Tracker</h2>
+				<div align="center" > 
+					<a target="_blank" href="https://mood-tracker-demo.herokuapp.com/">
+						<img src="https://jpmitra.netlify.app/images/mood-tracker.gif" alt="PLACEHOLDER" width="300px">
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/mitch8020/WA-Calculator'>
-							<img src="https://img.shields.io/github/repo-size/mitch8020/WA-Calculator?color=lightgray&label=REPO&style=for-the-badge">
+						<a href='https://github.com/mitch8020/mood-tracker'>
+							<img src="https://img.shields.io/github/repo-size/mitch8020/mood-tracker?color=lightgray&label=REPO&style=for-the-badge">
 						</a>  
                         <!--live site --> 
-						<a target="_blank" href="https://wa-calculator.netlify.app/">
-							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fwa-calculator.netlify.app%2F">
+						<a target="_blank" href="https://mood-tracker-demo.herokuapp.com/">
+							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fmood-tracker-demo.herokuapp.com%2F">
 						</a>	
 					</p>
-					<p><strong>JavaScript, HTML, CSS</strong></p>
+					<p><strong>Node.js, Express.js, MongoDB, D3.js, Materialize.css</strong></p>
 				</div>
 			</td>
 			<!--project 2 -->
@@ -81,7 +81,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fmarvel-villains.herokuapp.com%2F">
 						</a>	
 					</p>
-					<p><strong>Javascript, Node.js, Express.js</strong></p>
+					<p><strong>Node.js, Express.js, Javascript</strong></p>
 				</div>
 			</td>
 		<tr>
@@ -109,24 +109,24 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 			</td>
 			<!--project 4 -->
 			<td width="50%">
-				<h3 align="center" color="white">First Full-Stack App</h2>
-				<div align="center" > 
-					<a target="_blank" href="https://magic-eight-ball-100devs.herokuapp.com/">
-						<img src="https://jpmitra.netlify.app/images/pic01-7-5-ratio.jpg" alt="PLACEHOLDER" width="300px">
+				<h3 align="center" color="white">W&A Estimating Calculator</h2>
+				<div align="center"> 
+					<a target="_blank" href="https://wa-calculator.netlify.app/">
+						<img src="https://jpmitra.netlify.app/images/wa-calculator-updated-7-5-ratio.jpg" alt="wa calculator" width="300px">
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/mitch8020/magic-eight-ball'>
-							<img src="https://img.shields.io/github/repo-size/mitch8020/magic-eight-ball?color=lightgray&label=REPO&style=for-the-badge">
+						<a href='https://github.com/mitch8020/WA-Calculator'>
+							<img src="https://img.shields.io/github/repo-size/mitch8020/WA-Calculator?color=lightgray&label=REPO&style=for-the-badge">
 						</a>  
                         <!--live site --> 
-						<a target="_blank" href="https://magic-eight-ball-100devs.herokuapp.com/">
-							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fmagic-eight-ball-100devs.herokuapp.com%2F">
+						<a target="_blank" href="https://wa-calculator.netlify.app/">
+							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fwa-calculator.netlify.app%2F">
 						</a>	
 					</p>
-					<p><strong>Javascript, Node.js, Express.js</strong></p>
+					<p><strong>JavaScript, HTML, CSS</strong></p>
 				</div>
 			</td>
 	</table>

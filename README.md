@@ -3,7 +3,7 @@
 
 <p align="center"> 
     <a target="_blank" href="https://jpmitra.netlify.app/"><img alt="portfolio" src="https://img.shields.io/twitter/url?color=bright%20green&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fjpmitra.netlify.app%2F"></a>
-    <a target="_blank" href="https://twitter.com/realjpmitra" target="blank"><img alt="twitter" src="https://img.shields.io/twitter/url?color=9CF&label=TWITTER&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Frealjpmitra" /></a> 
+    <a target="_blank" href="https://twitter.com/mitch8020_jp" target="blank"><img alt="twitter" src="https://img.shields.io/twitter/url?color=9CF&label=TWITTER&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fmitch8020_jp" /></a> 
     <a target="_blank" href="https://www.linkedin.com/in/jpmitra/"><img alt="linked in" src="https://img.shields.io/twitter/url?color=blue&label=LINKEDIN&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjpmitra%2F"></a>
     <a target="_blank" href="https://www.codewars.com/users/mitch8020"><img alt="codewars" src="https://img.shields.io/twitter/url?color=red&label=CODEWARS&style=for-the-badge&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fmitch8020"></a>
 </p>
@@ -134,7 +134,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/realjpmitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realjpmitra" height="30" width="40" /></a>
+<a href="https://twitter.com/mitch8020_jp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitch8020_jp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jpmitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpmitra" height="30" width="40" /></a>
 <a href="mailto:johnpaulmitra@yahoo.com"><img align="center" src="https://img.icons8.com/color/344/apple-mail.png" alt="jp mitra" height="40" width="40" /></a>
 </p>

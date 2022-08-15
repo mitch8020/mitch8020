@@ -109,21 +109,21 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 			</td>
 			<!--project 4 -->
 			<td width="50%">
-				<h3 align="center" color="white">W&A Estimating Calculator</h2>
+				<h3 align="center" color="white">W&A Console Manager</h2>
 				<div align="center"> 
-					<a target="_blank" href="https://wa-calculator.netlify.app/">
+					<a target="_blank" href="https://wa-console-manager-demo.netlify.app/">
 						<img src="https://jpmitra.netlify.app/images/wa-calculator-updated-7-5-ratio.jpg" alt="wa calculator" width="300px">
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/mitch8020/WA-Calculator'>
-							<img src="https://img.shields.io/github/repo-size/mitch8020/WA-Calculator?color=lightgray&label=REPO&style=for-the-badge">
+						<a href='https://github.com/mitch8020/wa-console-manager'>
+							<img src="https://img.shields.io/github/repo-size/mitch8020/wa-console-manager?color=lightgray&label=REPO&style=for-the-badge">
 						</a>  
                         <!--live site --> 
-						<a target="_blank" href="https://wa-calculator.netlify.app/">
-							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fwa-calculator.netlify.app%2F">
+						<a target="_blank" href="https://wa-console-manager-demo.netlify.app/">
+							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fwa-console-manager-demo.netlify.app%2F">
 						</a>	
 					</p>
 					<p><strong>JavaScript, HTML, CSS</strong></p>

@@ -42,6 +42,51 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 		<tr>
 			<!--project 1 -->
 			<td width="50%">
+				<h3 align="center" color="white">Daycare App</h2>
+				<div align="center" > 
+					<a target="_blank" href="https://jckc-client-site-demo.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/100659138/184996443-2618fb1e-51fe-4c3f-8a54-025073cc285f.gif" alt="level ground website" width="300px">
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/jckc-client-site'>
+							<img src="https://img.shields.io/github/repo-size/mitch8020/jckc-client-site?color=lightgray&label=REPO&style=for-the-badge">
+						</a>  
+                        <!--live site --> 
+						<a target="_blank" href="https://jckc-client-site-demo.netlify.app/">
+							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fjckc-client-site-demo.netlify.app%2F">
+						</a>	
+					</p>
+					<p><strong>Node.js, Express.js, MongoDB, Materialize.css</strong></p>
+				</div>
+			</td>
+			<!--project 2 -->
+			<td width="50%">
+				<h3 align="center" color="white">W&A Console Manager</h2>
+				<div align="center"> 
+					<a target="_blank" href="https://wa-console-manager-demo.netlify.app/">
+						<img src="https://jpmitra.netlify.app/images/wa-calculator-updated-7-5-ratio.jpg" alt="wa calculator" width="300px">
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/mitch8020/wa-console-manager'>
+							<img src="https://img.shields.io/github/repo-size/mitch8020/wa-console-manager?color=lightgray&label=REPO&style=for-the-badge">
+						</a>  
+                        <!--live site --> 
+						<a target="_blank" href="https://wa-console-manager-demo.netlify.app/">
+							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fwa-console-manager-demo.netlify.app%2F">
+						</a>	
+					</p>
+					<p><strong>JavaScript, HTML, CSS</strong></p>
+				</div>
+			</td>
+		<tr>
+			<!--project 3 -->
+			<td width="50%">
 				<h3 align="center" color="white">Mood Tracker</h2>
 				<div align="center" > 
 					<a target="_blank" href="https://mood-tracker-demo.herokuapp.com/">
@@ -62,7 +107,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 					<p><strong>Node.js, Express.js, MongoDB, D3.js, Materialize.css</strong></p>
 				</div>
 			</td>
-			<!--project 2 -->
+			<!--project 4 -->
 			<td width="50%">
 				<h3 align="center" color="white">Marvel Villains API</h2>
 				<div align="center" > 
@@ -82,51 +127,6 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 						</a>	
 					</p>
 					<p><strong>Node.js, Express.js, Javascript</strong></p>
-				</div>
-			</td>
-		<tr>
-			<!--project 3 -->
-			<td width="50%">
-				<h3 align="center" color="white">Level Ground Website</h2>
-				<div align="center" > 
-					<a target="_blank" href="https://jp-level-ground.netlify.app/">
-						<img src="https://jpmitra.netlify.app/images/level-ground-snip-7-5-ratio.jpg" alt="level ground website" width="300px">
-					</a>
-					<br>
-					<br>
-					<p>
-                        <!--repo --> 
-						<a href='https://github.com/mitch8020'>
-							<img src="https://img.shields.io/github/repo-size/mitch8020/level-ground-website?color=lightgray&label=REPO&style=for-the-badge">
-						</a>  
-                        <!--live site --> 
-						<a target="_blank" href="https://jp-level-ground.netlify.app/">
-							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fjp-level-ground.netlify.app%2F">
-						</a>	
-					</p>
-					<p><strong>HTML, CSS</strong></p>
-				</div>
-			</td>
-			<!--project 4 -->
-			<td width="50%">
-				<h3 align="center" color="white">W&A Console Manager</h2>
-				<div align="center"> 
-					<a target="_blank" href="https://wa-console-manager-demo.netlify.app/">
-						<img src="https://jpmitra.netlify.app/images/wa-calculator-updated-7-5-ratio.jpg" alt="wa calculator" width="300px">
-					</a>
-					<br>
-					<br>
-					<p>
-                        <!--repo --> 
-						<a href='https://github.com/mitch8020/wa-console-manager'>
-							<img src="https://img.shields.io/github/repo-size/mitch8020/wa-console-manager?color=lightgray&label=REPO&style=for-the-badge">
-						</a>  
-                        <!--live site --> 
-						<a target="_blank" href="https://wa-console-manager-demo.netlify.app/">
-							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fwa-console-manager-demo.netlify.app%2F">
-						</a>	
-					</p>
-					<p><strong>JavaScript, HTML, CSS</strong></p>
 				</div>
 			</td>
 	</table>

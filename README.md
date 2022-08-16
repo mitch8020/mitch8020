@@ -45,7 +45,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 				<h3 align="center" color="white">Daycare App</h2>
 				<div align="center" > 
 					<a target="_blank" href="https://jckc-client-site-demo.netlify.app/">
-						<img src="https://user-images.githubusercontent.com/100659138/184996443-2618fb1e-51fe-4c3f-8a54-025073cc285f.gif" alt="level ground website" width="300px">
+						<img src="https://user-images.githubusercontent.com/100659138/184998714-1232479c-6b55-43a3-8dea-8321069c3202.gif" alt="level ground website" width="300px">
 					</a>
 					<br>
 					<br>

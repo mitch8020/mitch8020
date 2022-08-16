@@ -59,7 +59,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fjckc-client-site-demo.netlify.app%2F">
 						</a>	
 					</p>
-					<p><strong>Node.js, Express.js, MongoDB, Materialize.css</strong></p>
+					<p><strong>Node.js, Express.js, MongoDB, EJS, Materialize.css</strong></p>
 				</div>
 			</td>
 			<!--project 2 -->
@@ -67,7 +67,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 				<h3 align="center" color="white">W&A Console Manager</h2>
 				<div align="center"> 
 					<a target="_blank" href="https://wa-console-manager-demo.netlify.app/">
-						<img src="https://jpmitra.netlify.app/images/wa-calculator-updated-7-5-ratio.jpg" alt="wa calculator" width="300px">
+						<img src="https://jpmitra.netlify.app/images/wa-calculator-updated-7-5-ratio.jpg" alt="wa console manager" width="300px">
 					</a>
 					<br>
 					<br>
@@ -104,7 +104,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fmood-tracker-demo.herokuapp.com%2F">
 						</a>	
 					</p>
-					<p><strong>Node.js, Express.js, MongoDB, D3.js, Materialize.css</strong></p>
+					<p><strong>Node.js, Express.js, MongoDB, Handlebars, D3.js, Materialize.css</strong></p>
 				</div>
 			</td>
 			<!--project 4 -->

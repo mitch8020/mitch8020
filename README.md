@@ -16,7 +16,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 <br>
 - 📂 All of my projects are available at <a target="_blank" href="https://jpmitra.netlify.app/">https://jpmitra.netlify.app/</a>
 
-- 📫 You can reach me at **johnpaulmitra@yahoo.com**
+- 📫 You can reach me at **jpmitra.swe@gmail.com**
 
 - 👨‍💻 Follow me at Codewars! <a href="https://www.codewars.com/users/mitch8020"><img alt="portfolio" src="https://www.codewars.com/users/mitch8020/badges/micro?theme=light" height="20px"></a>
 
@@ -89,7 +89,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 			<td width="50%">
 				<h3 align="center" color="white">Mood Tracker</h2>
 				<div align="center" > 
-					<a target="_blank" href="https://mood-tracker-demo.herokuapp.com/">
+					<a target="_blank" href="https://mood-tracker-demo.netlify.com/">
 						<img src="https://jpmitra.netlify.app/images/mood-tracker.gif" alt="PLACEHOLDER" width="300px">
 					</a>
 					<br>
@@ -100,8 +100,8 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 							<img src="https://img.shields.io/github/repo-size/mitch8020/mood-tracker?color=lightgray&label=REPO&style=for-the-badge">
 						</a>  
                         <!--live site --> 
-						<a target="_blank" href="https://mood-tracker-demo.herokuapp.com/">
-							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fmood-tracker-demo.herokuapp.com%2F">
+						<a target="_blank" href="https://mood-tracker-demo.netlify.com/">
+							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fmood-tracker-demo.netlify.com%2F">
 						</a>	
 					</p>
 					<p><strong>Node.js, Express.js, MongoDB, Handlebars, D3.js, Materialize.css</strong></p>
@@ -111,7 +111,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 			<td width="50%">
 				<h3 align="center" color="white">Marvel Villains API</h2>
 				<div align="center" > 
-					<a target="_blank" href="https://marvel-villains.herokuapp.com/">
+					<a target="_blank" href="https://marvel-villains.netlify.com/">
 						<img src="https://user-images.githubusercontent.com/100659138/172031382-991e8a09-3fcf-465b-835c-93982f30bf8f.gif" alt="marvel villains api" width="300px" height="215px">
 					</a>
 					<br>
@@ -122,8 +122,8 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 							<img src="https://img.shields.io/github/repo-size/mitch8020/marvel-villains?color=lightgray&label=REPO&style=for-the-badge">
 						</a>  
                         <!--live site --> 
-						<a target="_blank" href="https://marvel-villains.herokuapp.com/">
-							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fmarvel-villains.herokuapp.com%2F">
+						<a target="_blank" href="https://marvel-villains.netlify.com/">
+							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fmarvel-villains.netlify.com%2F">
 						</a>	
 					</p>
 					<p><strong>Node.js, Express.js, Javascript</strong></p>
@@ -136,5 +136,5 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 <p align="center">
 <a href="https://twitter.com/mitch8020_jp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitch8020_jp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jpmitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpmitra" height="30" width="40" /></a>
-<a href="mailto:johnpaulmitra@yahoo.com"><img align="center" src="https://img.icons8.com/color/344/apple-mail.png" alt="jp mitra" height="40" width="40" /></a>
+<a href="mailto:jpmitra.swe@gmail.com"><img align="center" src="https://img.icons8.com/color/344/apple-mail.png" alt="jp mitra" height="40" width="40" /></a>
 </p>

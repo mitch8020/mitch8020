@@ -10,9 +10,9 @@
 
 Transitioning through multiple roles from <strong>estimator</strong> to <strong>project administrator</strong> to <strong>recruiter</strong> to <strong>project manager</strong>, I've always been an advocate for automated systems and efficient work flows to help the people I work with complete their tasks as smoothly as possible. Knowing the key stressors among the different departments that I've worked with, <strong>I took it upon myself to design and create enterprise software that will cater to the specific needs of the company</strong>.
 
-Currently, <strong>I'm working on an <a target="_blank" href="https://wa-calculator.netlify.app/">estimating app</a> that will automate the process of calculating prices and reduce time in formatting each quote</strong>. My goals are to extend this application to further automate administrative processes within our Sales and Production Departments by creating a system to intake new projects and streamline the communications between these multiple departments.
+Currently, <strong>I'm working on an <a target="_blank" href="https://wa-console-manager-demo.netlify.app/">estimating app</a> that will automate the process of calculating prices and reduce time in formatting each quote</strong>. My goals are to extend this application to further automate administrative processes within our Sales and Production Departments by creating a system to intake new projects and streamline the communications between these multiple departments.
 
-Outside of coding, I love playing disc golf, trying new foods, going to concerts, and taking <a target="_blank" href="https://jpmitra.netlify.app/bucket.html">Bucky</a> out on walks around my apartment complex.
+Outside of coding, I love playing disc golf, trying new foods, going to concerts, and taking <a target="_blank" href="https://jpmitra.netlify.app/images/Bucket.jpg">Bucky</a> out on walks around my apartment complex.
 <br>
 - 📂 All of my projects are available at <a target="_blank" href="https://jpmitra.netlify.app/">https://jpmitra.netlify.app/</a>
 
@@ -51,7 +51,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/jckc-client-site'>
+						<a href='https://github.com/mitch8020/jckc-client-site'>
 							<img src="https://img.shields.io/github/repo-size/mitch8020/jckc-client-site?color=lightgray&label=REPO&style=for-the-badge">
 						</a>  
                         <!--live site --> 

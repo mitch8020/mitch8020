@@ -12,7 +12,7 @@ Transitioning through multiple roles from <strong>estimator</strong> to <strong>
 
 Currently, <strong>I'm working on an <a target="_blank" href="https://wa-console-manager-demo.netlify.app/">estimating app</a> that will automate the process of calculating prices and reduce time in formatting each quote</strong>. My goals are to extend this application to further automate administrative processes within our Sales and Production Departments by creating a system to intake new projects and streamline the communications between these multiple departments.
 
-Outside of coding, I love playing disc golf, trying new foods, going to concerts, and taking <a target="_blank" href="https://jpmitra.netlify.app/images/Bucket.jpg">Bucky</a> out on walks around my apartment complex.
+Outside of coding, I love playing disc golf, trying new foods, going to concerts, and taking <a target="_blank" href="https://club-professionals.netlify.app/bucket.html">Bucky</a> out on walks around my apartment complex.
 <br>
 - 📂 All of my projects are available at <a target="_blank" href="https://jpmitra.netlify.app/">https://jpmitra.netlify.app/</a>
 

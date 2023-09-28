@@ -32,7 +32,7 @@ Outside of coding, I love playing disc golf, trying new foods, going to concerts
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitch8020&show_icons=true&locale=en" alt="mitch8020" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitch8020&" alt="mitch8020" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitch8020&" alt="mitch8020" /></p> -->
 
 <!-- PROJECTS -->
 

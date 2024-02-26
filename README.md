@@ -3,7 +3,7 @@
 
 <p align="center"> 
     <a target="_blank" href="https://jpmitra.netlify.app/"><img alt="portfolio" src="https://img.shields.io/twitter/url?color=bright%20green&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fjpmitra.netlify.app%2F"></a>
-    <a target="_blank" href="https://twitter.com/mitch8020_jp" target="blank"><img alt="twitter" src="https://img.shields.io/twitter/url?color=9CF&label=TWITTER&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fmitch8020_jp" /></a> 
+    <a target="_blank" href="https://twitter.com/JohnestOfPauls" target="blank"><img alt="twitter" src="https://img.shields.io/twitter/url?color=9CF&label=TWITTER&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FJohnestOfPauls" /></a> 
     <a target="_blank" href="https://www.linkedin.com/in/jpmitra/"><img alt="linked in" src="https://img.shields.io/twitter/url?color=blue&label=LINKEDIN&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjpmitra%2F"></a>
     <a target="_blank" href="https://www.codewars.com/users/mitch8020"><img alt="codewars" src="https://img.shields.io/twitter/url?color=red&label=CODEWARS&style=for-the-badge&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fmitch8020"></a>
 </p>

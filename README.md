@@ -47,8 +47,6 @@ I believe technology should serve human connection, not replace it. AI makes it 
 	<!-- AWS --> <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor" alt="aws" width="70" height="70" style="max-width: 100%;">
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitch8020&show_icons=true&locale=en" alt="mitch8020" /></p>
-
 <!-- PROJECTS -->
 
 <h3 align="center">Projects:</h3>

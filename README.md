@@ -10,7 +10,7 @@
 
 I'm a **Full-Stack Software Engineer** with a concentration in **Web Application Development** and a background in the **Construction Industry** — spanning **estimating**, **project administration**, **recruiting**, and **project management**. I've always been an advocate for automated systems and efficient workflows that help people complete their tasks as smoothly as possible. Knowing the key stressors among the different departments I've worked with, **I took it upon myself to design and create enterprise software that caters to the specific needs of the company**.
 
-Currently, **I'm building [Taliho](https://github.com/mitch8020)** — a construction management platform that uses NFC and QR technology to connect field teams with real-time project data, safety workflows, and tool tracking, all integrated with systems like Procore.
+My largest project that I've built thus far is **[Taliho](https://github.com/mitch8020)** — a construction management platform that uses NFC and QR technology to connect field teams with real-time project data, safety workflows, and tool tracking, all integrated with systems like Procore.
 
 I believe technology should serve human connection, not replace it. AI makes it dramatically cheaper to explore ideas — the harder and more important work is deciding which futures deserve more attention, more craft, and more human care.
 

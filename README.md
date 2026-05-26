@@ -26,7 +26,7 @@ I believe technology should serve human connection, not replace it. AI makes it 
 
 <br>
 
-- 📂 All of my projects are available at <a target="_blank" href="https://jpmitra.netlify.app/">https://jpmitra.netlify.app/</a>
+- 📂 Here is my personal website: <a target="_blank" href="https://jpmitra.netlify.app/">https://jpmitra.netlify.app/</a>
 
 - ✍️ I write about systems, media, play, and the kinds of ideas worth iterating on carefully — check out my <a target="_blank" href="https://jpmitra.netlify.app/blog">blog</a>
 

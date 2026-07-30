@@ -4,13 +4,12 @@
 <p align="center">
     <a target="_blank" href="https://jpmitra.netlify.app/"><img alt="portfolio" src="https://img.shields.io/twitter/url?color=bright%20green&label=portfolio&style=for-the-badge&url=https%3A%2F%2Fjpmitra.netlify.app%2F"></a>
     <a target="_blank" href="https://www.linkedin.com/in/johnestofpauls/"><img alt="linked in" src="https://img.shields.io/twitter/url?color=blue&label=LINKEDIN&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohnestofpauls%2F"></a>
+    <a target="_blank" href="https://www.instagram.com/johnestofpauls/"><img alt="instagram" src="https://img.shields.io/twitter/url?color=E4405F&label=INSTAGRAM&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fjohnestofpauls%2F"></a>
     <a target="_blank" href="https://twitter.com/JohnestOfPauls" target="blank"><img alt="twitter" src="https://img.shields.io/twitter/url?color=9CF&label=TWITTER&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FJohnestOfPauls" /></a>
     <a target="_blank" href="https://www.codewars.com/users/mitch8020"><img alt="codewars" src="https://img.shields.io/twitter/url?color=red&label=CODEWARS&style=for-the-badge&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fmitch8020"></a>
 </p>
 
 I'm a **Full-Stack Software Engineer** with a concentration in **Web Application Development** and a background in the **Construction Industry** — spanning **estimating**, **project administration**, **recruiting**, and **project management**. I've always been an advocate for automated systems and efficient workflows that help people complete their tasks as smoothly as possible. Knowing the key stressors among the different departments I've worked with, **I took it upon myself to design and create enterprise software that caters to the specific needs of the company**.
-
-My largest project that I've built thus far is **[Taliho](https://github.com/mitch8020)** — a construction management platform that uses NFC and QR technology to connect field teams with real-time project data, safety workflows, and tool tracking, all integrated with systems like Procore.
 
 I believe technology should serve human connection, not replace it. AI makes it dramatically cheaper to explore ideas — the harder and more important work is deciding which futures deserve more attention, more craft, and more human care.
 
@@ -26,7 +25,7 @@ I believe technology should serve human connection, not replace it. AI makes it 
 
 <br>
 
-- 📂 Here is my personal website: <a target="_blank" href="https://jpmitra.netlify.app/">https://jpmitra.netlify.app/</a>
+- 📂 All of my projects are available at <a target="_blank" href="https://jpmitra.netlify.app/projects">https://jpmitra.netlify.app/projects</a>
 
 - ✍️ I write about systems, media, play, and the kinds of ideas worth iterating on carefully — check out my <a target="_blank" href="https://jpmitra.netlify.app/blog">blog</a>
 
@@ -47,107 +46,66 @@ I believe technology should serve human connection, not replace it. AI makes it 
 	<!-- AWS --> <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor" alt="aws" width="70" height="70" style="max-width: 100%;">
 </p>
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitch8020&show_icons=true&locale=en" alt="mitch8020" /></p>
+
 <!-- PROJECTS -->
 
-<h3 align="center">Projects:</h3>
+<h3 align="center">Featured Projects</h3>
 <div align="center">
 	<table>
 		<tr>
-			<!--project 1 -->
-			<td width="50%">
-				<h3 align="center" color="white">Daycare App</h2>
-				<div align="center" >
-					<a target="_blank" href="https://jckc-client-site-demo.netlify.app/">
-						<img src="https://user-images.githubusercontent.com/100659138/184998714-1232479c-6b55-43a3-8dea-8321069c3202.gif" alt="level ground website" width="300px">
+			<td width="50%" valign="top">
+				<h3 align="center">Scroll Race</h3>
+				<p align="center">A thumb athletics championship that turns scrolling into a timed race, with four distances, personal records, and global leaderboards.</p>
+				<p align="center">
+					<a target="_blank" href="https://scroll-race.netlify.app/">
+						<img alt="Visit Scroll Race" src="https://img.shields.io/website?label=VISIT%20SCROLL%20RACE&style=for-the-badge&url=https%3A%2F%2Fscroll-race.netlify.app%2F">
 					</a>
-					<br>
-					<br>
-					<p>
-                        <!--repo -->
-						<a href='https://github.com/mitch8020/jckc-client-site'>
-							<img src="https://img.shields.io/github/repo-size/mitch8020/jckc-client-site?color=lightgray&label=REPO&style=for-the-badge">
-						</a>
-                        <!--live site -->
-						<a target="_blank" href="https://jckc-client-site-demo.netlify.app/">
-							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fjckc-client-site-demo.netlify.app%2F">
-						</a>
-					</p>
-					<p><strong>Node.js, Express.js, MongoDB, EJS, Materialize.css</strong></p>
-				</div>
+				</p>
 			</td>
-			<!--project 2 -->
-			<td width="50%">
-				<h3 align="center" color="white">W&A Console Manager</h2>
-				<div align="center">
-					<a target="_blank" href="https://wa-console-manager-demo.netlify.app/">
-						<img src="https://jpmitra.netlify.app/images/wa-calculator-updated-7-5-ratio.jpg" alt="wa console manager" width="300px">
+			<td width="50%" valign="top">
+				<h3 align="center">How Many?</h3>
+				<p align="center">A daily crowd-estimation game inspired by Hypothetically. Commit to one number, then compare your intuition with the crowd.</p>
+				<p align="center">
+					<a target="_blank" href="https://hypothetically-app-7e0018083f28.herokuapp.com/q/today">
+						<img alt="Visit How Many?" src="https://img.shields.io/website?label=VISIT%20HOW%20MANY&style=for-the-badge&url=https%3A%2F%2Fhypothetically-app-7e0018083f28.herokuapp.com%2Fq%2Ftoday">
 					</a>
-					<br>
-					<br>
-					<p>
-                        <!--repo -->
-						<a href='https://github.com/mitch8020/wa-console-manager'>
-							<img src="https://img.shields.io/github/repo-size/mitch8020/wa-console-manager?color=lightgray&label=REPO&style=for-the-badge">
-						</a>
-                        <!--live site -->
-						<a target="_blank" href="https://wa-console-manager-demo.netlify.app/">
-							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fwa-console-manager-demo.netlify.app%2F">
-						</a>
-					</p>
-					<p><strong>JavaScript, HTML, CSS</strong></p>
-				</div>
+				</p>
 			</td>
+		</tr>
 		<tr>
-			<!--project 3 -->
-			<td width="50%">
-				<h3 align="center" color="white">Mood Tracker</h2>
-				<div align="center" >
-					<a target="_blank" href="https://mood-tracker-demo.netlify.com/">
-						<img src="https://jpmitra.netlify.app/images/mood-tracker.gif" alt="PLACEHOLDER" width="300px">
+			<td width="50%" valign="top">
+				<h3 align="center">Nashville Parcel Explorer</h3>
+				<p align="center">An interactive 3D map built around Nashville's real parcel geometry, with address search, property details, and shareable selections.</p>
+				<p align="center">
+					<a target="_blank" href="https://city-builder-prototype.netlify.app/">
+						<img alt="Visit Nashville Parcel Explorer" src="https://img.shields.io/website?label=VISIT%20PARCEL%20EXPLORER&style=for-the-badge&url=https%3A%2F%2Fcity-builder-prototype.netlify.app%2F">
 					</a>
-					<br>
-					<br>
-					<p>
-                        <!--repo -->
-						<a href='https://github.com/mitch8020/mood-tracker'>
-							<img src="https://img.shields.io/github/repo-size/mitch8020/mood-tracker?color=lightgray&label=REPO&style=for-the-badge">
-						</a>
-                        <!--live site -->
-						<a target="_blank" href="https://mood-tracker-demo.netlify.com/">
-							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fmood-tracker-demo.netlify.com%2F">
-						</a>
-					</p>
-					<p><strong>Node.js, Express.js, MongoDB, Handlebars, D3.js, Materialize.css</strong></p>
-				</div>
+				</p>
 			</td>
-			<!--project 4 -->
-			<td width="50%">
-				<h3 align="center" color="white">Marvel Villains API</h2>
-				<div align="center" >
-					<a target="_blank" href="https://marvel-villains.netlify.com/">
-						<img src="https://user-images.githubusercontent.com/100659138/172031382-991e8a09-3fcf-465b-835c-93982f30bf8f.gif" alt="marvel villains api" width="300px" height="215px">
+			<td width="50%" valign="top">
+				<h3 align="center">JCKC Client Site Demo</h3>
+				<p align="center">A responsive client website concept for Johnson City Kidz Clubhouse, pairing energetic visuals with service highlights and a clear contact path.</p>
+				<p align="center">
+					<a target="_blank" href="https://jckc-client-site-demo.netlify.app/">
+						<img alt="Visit JCKC Client Site Demo" src="https://img.shields.io/website?label=VISIT%20JCKC%20DEMO&style=for-the-badge&url=https%3A%2F%2Fjckc-client-site-demo.netlify.app%2F">
 					</a>
-					<br>
-					<br>
-					<p>
-                        <!--repo -->
-						<a href='https://github.com/mitch8020/marvel-villains'>
-							<img src="https://img.shields.io/github/repo-size/mitch8020/marvel-villains?color=lightgray&label=REPO&style=for-the-badge">
-						</a>
-                        <!--live site -->
-						<a target="_blank" href="https://marvel-villains.netlify.com/">
-							<img src="https://img.shields.io/website?label=SITE&style=for-the-badge&url=https%3A%2F%2Fmarvel-villains.netlify.com%2F">
-						</a>
-					</p>
-					<p><strong>Node.js, Express.js, Javascript</strong></p>
-				</div>
+				</p>
 			</td>
+		</tr>
 	</table>
 </div>
+
+<p align="center">
+	<a target="_blank" href="https://jpmitra.netlify.app/projects"><strong>View all featured projects on my website →</strong></a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/JohnestOfPauls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JohnestOfPauls" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/johnestofpauls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnestofpauls" height="30" width="40" /></a>
+<a href="https://github.com/mitch8020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mitch8020 on GitHub" height="30" width="40" /></a>
+<a href="https://www.instagram.com/johnestofpauls/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johnestofpauls on Instagram" height="30" width="40" /></a>
+<a href="https://discord.com/users/929047382618955867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JP on Discord" height="30" width="40" /></a>
 <a href="mailto:jpmitra.swe@gmail.com"><img align="center" src="https://img.icons8.com/color/344/apple-mail.png" alt="jp mitra" height="40" width="40" /></a>
 </p>
